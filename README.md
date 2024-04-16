@@ -56,4 +56,6 @@ Recursos: Imagens e vídeos utilizados na página estão localizados na pasta im
 Autor
 Esta página foi criada por Hugo Lima, como parte de um projeto para destacar a jornada de Abel Ferreira no Palmeiras.
 
+LINK PARA ACESSO AO SITE!!!:https://hugo14253600.github.io/Mini_PI/
+
 🎁 Expressões de gratidão Esser projeto foi feito para mostrar por meio de um site, minhas características principais, passando por minnhas formações e cursos feitos 📢; O intuito é que ele seja visto como um curriculo que ao longo do curso eu consiga acrescentar formações e cursos, e melhorar o site estéticamente, de acordo com meu avanço na aulas de web.
