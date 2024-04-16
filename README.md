@@ -1,12 +1,18 @@
 Página sobre Abel Ferreira no Palmeiras
-Este repositório contém uma página da web dedicada a contar a história e as conquistas de Abel Ferreira como treinador do Palmeiras. A página foi criada como parte de um projeto pessoal para destacar os feitos do técnico português no clube brasileiro.
+
+Este repositório contém uma página da web dedicada a contar a história e as conquistas de Abel Ferreira como treinador do Palmeiras. A página foi criada para destacar os feitos do técnico português no clube brasileiro.
 
 Conteúdo da Página
 A página aborda os seguintes tópicos:
 
 História da Chegada de Abel ao Clube: Uma breve introdução sobre como Abel Ferreira se tornou o primeiro treinador estrangeiro a comandar o Palmeiras em outubro de 2020.
+![Captura de tela 2024-04-16 195015](https://github.com/hugo14253600/Mini_PI/assets/162808170/8876ade6-3e54-476b-8faa-c635cd768eb4)
+
 
 Primeira Conquista: Copa do Brasil 2020: Detalhes sobre a primeira conquista de Abel Ferreira no Palmeiras, vencendo a Copa do Brasil no mesmo ano de sua chegada ao clube.
+![Captura de tela 2024-04-16 195128](https://github.com/hugo14253600/Mini_PI/assets/162808170/4ce610b9-3208-4f48-84b1-b961006a4d34)
+
+
 
 Conquista da Glória Eterna: Libertadores 2020: Destaca a vitória histórica na Copa Libertadores da América de 2020, onde o Palmeiras derrotou o Santos na final.
 
